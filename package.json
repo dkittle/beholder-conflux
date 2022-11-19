@@ -1,0 +1,19 @@
+{
+  "name": "dnd-combat",
+  "version": "1.0.0",
+  "description": "A website for running D&D 5E combat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkittle/dnd-combat.git"
+  },
+  "author": "Don Kittle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkittle/dnd-combat/issues"
+  },
+  "homepage": "https://github.com/dkittle/dnd-combat#readme"
+}
